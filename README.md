@@ -6,5 +6,5 @@ This is a simple training app based on HTML, CSS and Javascript.
 * Dynamically inserting a random quote into the DOM on initial loading.
 * User is able to load a new quote on a button 'New Quote" click.
 * User is able to tweet the quote if he liked it on a 'Twitter' button click.
-* <br>
+<br>
 <a href="https://nigorafayzullaeva.github.io/Quote-generator-js/"><h1>LIVE DEMO</h1></a>

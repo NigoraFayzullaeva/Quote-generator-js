@@ -1,3 +1,4 @@
+⚠️ Feel free to download source code and change it by your own.
 # Quote-generator-js
 Generating quotes with js
 <br>
